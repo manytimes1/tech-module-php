@@ -1,0 +1,2 @@
+<?php
+$number = intval(readline());
