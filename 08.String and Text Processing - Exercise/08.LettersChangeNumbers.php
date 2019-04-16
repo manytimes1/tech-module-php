@@ -22,4 +22,4 @@ foreach ($words as $word) {
     }
     $sum += $number;
 }
-printf("%.2f", $sum);
+printf("%.2f", round($sum, 2));
